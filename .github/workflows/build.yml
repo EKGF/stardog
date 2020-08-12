@@ -20,5 +20,5 @@ jobs:
           #
           # TODO: Get the version number from a file (for instance localbuild.sh) or "/VERSION"
           #
-          tags: latest, 7.3.4-java11-preview
+          tags: latest, 7.3.4-java11-preview, 7.3.4-java11-preview-nonroot
           always_pull: true
