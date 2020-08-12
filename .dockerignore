@@ -1,0 +1,8 @@
+image.id
+*.code-workspace
+.gitignore
+.gcloudignore
+*.flag
+*.lic
+run.sh
+localbuild.sh
